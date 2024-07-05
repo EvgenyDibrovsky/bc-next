@@ -1,0 +1,196 @@
+{
+  "categories": [
+    {
+      "id": "cat1",
+      "slug": "home-appliances",
+      "title": "AGD i RTV",
+      "description": "description-cat1",
+      "icon": "icon1.svg",
+      "link": "/category/home-appliances"
+    },
+    {
+      "id": "cat2",
+      "slug": "construction",
+      "title": "Budownictwo",
+      "description": "description-cat2",
+      "icon": "icon2.svg",
+      "link": "/category/construction"
+    },
+    {
+      "id": "cat3",
+      "slug": "chemistry-oils-fuels",
+      "title": "Chemia, oleje, paliwa",
+      "description": "description-cat3",
+      "icon": "icon3.svg",
+      "link": "/category/chemistry-oils-fuels"
+    },
+    {
+      "id": "cat4",
+      "slug": "education-consulting",
+      "title": "Edukacja, doradztwo",
+      "description": "description-cat4",
+      "icon": "icon4.svg",
+      "link": "/category/education-consulting"
+    },
+    {
+      "id": "cat5",
+      "slug": "ecology-environment",
+      "title": "Ekologia, środowisko",
+      "description": "description-cat5",
+      "icon": "icon5.svg",
+      "link": "/category/ecology-environment"
+    },
+    {
+      "id": "cat6",
+      "slug": "electronics",
+      "title": "Elektronika",
+      "description": "description-cat6",
+      "icon": "icon6.svg",
+      "link": "/category/electronics"
+    },
+    {
+      "id": "cat7",
+      "slug": "finance-insurance",
+      "title": "Finanse, ubezpieczenia",
+      "description": "description-cat7",
+      "icon": "icon7.svg",
+      "link": "/category/finance-insurance"
+    },
+    {
+      "id": "cat8",
+      "slug": "gastronomy",
+      "title": "Gastronomia",
+      "description": "description-cat8",
+      "icon": "icon8.svg",
+      "link": "/category/gastronomy"
+    },
+    {
+      "id": "cat9",
+      "slug": "computers-internet",
+      "title": "Komputery, Internet",
+      "description": "description-cat9",
+      "icon": "icon9.svg",
+      "link": "/category/computers-internet"
+    },
+    {
+      "id": "cat10",
+      "slug": "accounting-office",
+      "title": "Księgowość, biuro",
+      "description": "description-cat10",
+      "icon": "icon10.svg",
+      "link": "/category/accounting-office"
+    },
+    {
+      "id": "cat11",
+      "slug": "culture-art",
+      "title": "Kultura, sztuka",
+      "description": "description-cat11",
+      "icon": "icon11.svg",
+      "link": "/category/culture-art"
+    },
+    {
+      "id": "cat12",
+      "slug": "marketing-advertising",
+      "title": "Marketing, reklama",
+      "description": "description-cat12",
+      "icon": "icon12.svg",
+      "link": "/category/marketing-advertising"
+    },
+    {
+      "id": "cat13",
+      "slug": "furniture-interior",
+      "title": "Meble, wyposażenie wnętrz",
+      "description": "description-cat13",
+      "icon": "icon13.svg",
+      "link": "/category/furniture-interior"
+    },
+    {
+      "id": "cat14",
+      "slug": "medicine-pharmacy",
+      "title": "Medycyna, farmacja",
+      "description": "description-cat14",
+      "icon": "icon14.svg",
+      "link": "/category/medicine-pharmacy"
+    },
+    {
+      "id": "cat15",
+      "slug": "automotive",
+      "title": "Motoryzacja",
+      "description": "description-cat15",
+      "icon": "icon15.svg",
+      "link": "/category/automotive"
+    },
+    {
+      "id": "cat16",
+      "slug": "real-estate",
+      "title": "Nieruchomości",
+      "description": "description-cat16",
+      "icon": "icon16.svg",
+      "link": "/category/real-estate"
+    },
+    {
+      "id": "cat17",
+      "slug": "clothing-footwear-textiles",
+      "title": "Odzież, obuwie, tekstylia",
+      "description": "description-cat17",
+      "icon": "icon17.svg",
+      "link": "/category/clothing-footwear-textiles"
+    },
+    {
+      "id": "cat18",
+      "slug": "printing",
+      "title": "Poligrafia, druk",
+      "description": "description-cat18",
+      "icon": "icon18.svg",
+      "link": "/category/printing"
+    },
+    {
+      "id": "cat19",
+      "slug": "industry-automation",
+      "title": "Przemysł, automatyzacja",
+      "description": "description-cat19",
+      "icon": "icon19.svg",
+      "link": "/category/industry-automation"
+    },
+    {
+      "id": "cat20",
+      "slug": "agriculture-food",
+      "title": "Rolnictwo, żywność",
+      "description": "description-cat20",
+      "icon": "icon20.svg",
+      "link": "/category/agriculture-food"
+    },
+    {
+      "id": "cat21",
+      "slug": "entertainment-recreation-sport",
+      "title": "Rozrywka, rekreacja, sport",
+      "description": "description-cat21",
+      "icon": "icon21.svg",
+      "link": "/category/entertainment-recreation-sport"
+    },
+    {
+      "id": "cat22",
+      "slug": "transport-communication",
+      "title": "Transport, komunikacja",
+      "description": "description-cat22",
+      "icon": "icon22.svg",
+      "link": "/category/transport-communication"
+    },
+    {
+      "id": "cat23",
+      "slug": "tourism",
+      "title": "Turystyka",
+      "description": "description-cat23",
+      "icon": "icon23.svg",
+      "link": "/category/tourism"
+    },
+    {
+      "id": "cat24",
+      "slug": "health-beauty",
+      "title": "Zdrowie, uroda",
+      "description": "description-cat24",
+      "icon": "icon24.svg",
+      "link": "/category/health-beauty"
+    }
+  ]
+}

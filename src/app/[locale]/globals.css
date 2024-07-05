@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  p,
+  li,
+  a {
+    @apply text-black dark:text-white;
+  }
+
+  .not-found h1,
+  .not-found h2 {
+    @apply text-white;
+  }
+}
+@layer components {
+  .catalog-hero-slider .swiper-pagination-bullets.swiper-pagination-horizontal {
+    @apply bottom-[0.2rem] text-right px-[0.5rem];
+  }
+  .catalog-hero-slider .swiper-pagination-bullet {
+    @apply h-2 w-2 duration-300 hover:bg-sky-600;
+  }
+  .catalog-hero-slider .swiper-pagination-bullet-active {
+    @apply bg-sky-600;
+  }
+
+  .hero-search select option {
+    @apply text-[1.2rem];
+  }
+  /* Сheckbox */
+  input[type="checkbox"] {
+    @apply relative h-5 w-5 cursor-pointer appearance-none rounded-md border border-neutral-400 transition-all bg-white;
+  }
+  input[type="checkbox"]::before {
+    content: "";
+    @apply absolute top-2/4 left-2/4 block h-[2.5rem] w-[2.5rem] -translate-y-2/4 -translate-x-2/4 rounded-full bg-neutral-400 opacity-0 transition-opacity;
+  }
+  input[type="checkbox"]:hover::before {
+    @apply opacity-10;
+  }
+  input[type="checkbox"]:checked {
+    @apply border-sky-500 bg-white bg-bgCheck bg-no-repeat bg-center;
+  }
+  /* Сheckbox */
+}
+/* styles.css */
+.footer-tabs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tabs {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.footer-tab-item {
+  padding: 10px 20px;
+  cursor: pointer;
+  border: none;
+  background-color: lightgray;
+}
+
+.footer-tab-item.active {
+  background-color: darkgray;
+  color: white;
+}
+
+.tab-content {
+  margin-top: 20px;
+  border: 1px solid gray;
+  padding: 20px;
+}

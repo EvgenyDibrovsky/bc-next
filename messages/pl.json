@@ -1,0 +1,111 @@
+{
+  "notFound": {
+    "title": "Страница не найдена",
+    "description": "К сожалению, страница, которую вы ищете, не существует.",
+    "goBackHome": "Вернуться на главную"
+  },
+  "categories": {
+    "cat1": {
+      "name": "AGD i RTV",
+      "description": "Opis dla AGD i RTV"
+    },
+    "cat2": {
+      "name": "Budownictwo",
+      "description": "Opis dla Budownictwo"
+    },
+    "cat3": {
+      "name": "Chemia, oleje, paliwa",
+      "description": "Opis dla Chemia, oleje, paliwa"
+    },
+    "cat4": {
+      "name": "Edukacja, doradztwo",
+      "description": "Opis dla Edukacja, doradztwo"
+    },
+    "cat5": {
+      "name": "Ekologia, środowisko",
+      "description": "Opis dla Ekologia, środowisko"
+    },
+    "cat6": {
+      "name": "Elektronika",
+      "description": "Opis dla Elektronika"
+    },
+    "cat7": {
+      "name": "Finanse, ubezpieczenia",
+      "description": "Opis dla Finanse, ubezpieczenia"
+    },
+    "cat8": {
+      "name": "Gastronomia",
+      "description": "Opis dla Gastronomia"
+    },
+    "cat9": {
+      "name": "Komputery, Internet",
+      "description": "Opis dla Komputery, Internet"
+    },
+    "cat10": {
+      "name": "Księgowość, biuro",
+      "description": "Opis dla Księgowość, biuro"
+    },
+    "cat11": {
+      "name": "Kultura, sztuka",
+      "description": "Opis dla Kultura, sztuka"
+    },
+    "cat12": {
+      "name": "Marketing, reklama",
+      "description": "Opis dla Marketing, reklama"
+    },
+    "cat13": {
+      "name": "Meble, wyposażenie wnętrz",
+      "description": "Opis dla Meble, wyposażenie wnętrz"
+    },
+    "cat14": {
+      "name": "Medycyna, farmacja",
+      "description": "Opis dla Medycyna, farmacja"
+    },
+    "cat15": {
+      "name": "Motoryzacja",
+      "description": "Opis dla Motoryzacja"
+    },
+    "cat16": {
+      "name": "Nieruchomości",
+      "description": "Opis dla Nieruchomości"
+    },
+    "cat17": {
+      "name": "Odzież, obuwie, tekstylia",
+      "description": "Opis dla Odzież, obuwie, tekstylia"
+    },
+    "cat18": {
+      "name": "Poligrafia, druk",
+      "description": "Opis dla Poligrafia, druk"
+    },
+    "cat19": {
+      "name": "Przemysł, automatyzacja",
+      "description": "Opis dla Przemysł, automatyzacja"
+    },
+    "cat20": {
+      "name": "Rolnictwo, żywność",
+      "description": "Opis dla Rolnictwo, żywność"
+    },
+    "cat21": {
+      "name": "Rozrywka, rekreacja, sport",
+      "description": "Opis dla Rozrywka, rekreacja, sport"
+    },
+    "cat22": {
+      "name": "Transport, komunikacja",
+      "description": "Opis dla Transport, komunikacja"
+    },
+    "cat23": {
+      "name": "Turystyka",
+      "description": "Opis dla Turystyka"
+    },
+    "cat24": {
+      "name": "Zdrowie, uroda",
+      "description": "Opis dla Zdrowie, uroda"
+    }
+  },
+    "select_language": {
+    "english": "English",
+    "polish": "Polski",
+    "ukrainian": "Українська",
+    "russian": "Руссский"
+  }
+}

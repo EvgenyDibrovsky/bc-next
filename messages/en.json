@@ -1,0 +1,111 @@
+{
+  "notFound": {
+    "title": "Страница не найдена",
+    "description": "К сожалению, страница, которую вы ищете, не существует.",
+    "goBackHome": "Вернуться на главную"
+  },
+  "categories": {
+    "cat1": {
+      "name": "Home Appliances",
+      "description": "Description for Home Appliances"
+    },
+    "cat2": {
+      "name": "Construction",
+      "description": "Description for Construction"
+    },
+    "cat3": {
+      "name": "Chemistry, Oils, Fuels",
+      "description": "Description for Chemistry, Oils, Fuels"
+    },
+    "cat4": {
+      "name": "Education, Consulting",
+      "description": "Description for Education, Consulting"
+    },
+    "cat5": {
+      "name": "Ecology, Environment",
+      "description": "Description for Ecology, Environment"
+    },
+    "cat6": {
+      "name": "Electronics",
+      "description": "Description for Electronics"
+    },
+    "cat7": {
+      "name": "Finance, Insurance",
+      "description": "Description for Finance, Insurance"
+    },
+    "cat8": {
+      "name": "Gastronomy",
+      "description": "Description for Gastronomy"
+    },
+    "cat9": {
+      "name": "Computers, Internet",
+      "description": "Description for Computers, Internet"
+    },
+    "cat10": {
+      "name": "Accounting, Office",
+      "description": "Description for Accounting, Office"
+    },
+    "cat11": {
+      "name": "Culture, Art",
+      "description": "Description for Culture, Art"
+    },
+    "cat12": {
+      "name": "Marketing, Advertising",
+      "description": "Description for Marketing, Advertising"
+    },
+    "cat13": {
+      "name": "Furniture, Interior",
+      "description": "Description for Furniture, Interior"
+    },
+    "cat14": {
+      "name": "Medicine, Pharmacy",
+      "description": "Description for Medicine, Pharmacy"
+    },
+    "cat15": {
+      "name": "Automotive",
+      "description": "Description for Automotive"
+    },
+    "cat16": {
+      "name": "Real Estate",
+      "description": "Description for Real Estate"
+    },
+    "cat17": {
+      "name": "Clothing, Footwear, Textiles",
+      "description": "Description for Clothing, Footwear, Textiles"
+    },
+    "cat18": {
+      "name": "Printing",
+      "description": "Description for Printing"
+    },
+    "cat19": {
+      "name": "Industry, Automation",
+      "description": "Description for Industry, Automation"
+    },
+    "cat20": {
+      "name": "Agriculture, Food",
+      "description": "Description for Agriculture, Food"
+    },
+    "cat21": {
+      "name": "Entertainment, Recreation, Sport",
+      "description": "Description for Entertainment, Recreation, Sport"
+    },
+    "cat22": {
+      "name": "Transport, Communication",
+      "description": "Description for Transport, Communication"
+    },
+    "cat23": {
+      "name": "Tourism",
+      "description": "Description for Tourism"
+    },
+    "cat24": {
+      "name": "Health, Beauty",
+      "description": "Description for Health, Beauty"
+    }
+  },
+    "select_language": {
+    "english": "English",
+    "polish": "Polski",
+    "ukrainian": "Українська",
+    "russian": "Руссский"
+  }
+}
