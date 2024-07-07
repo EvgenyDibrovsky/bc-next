@@ -107,5 +107,11 @@
     "polish": "Polski",
     "ukrainian": "Українська",
     "russian": "Руссский"
+  },
+    "select_language_abbr": {
+    "english": "Eng",
+    "polish": "Pol",
+    "ukrainian": "Укр",
+    "russian": "Рус"
   }
 }

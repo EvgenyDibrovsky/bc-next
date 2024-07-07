@@ -4,7 +4,7 @@ import LinksFooter from "../LinksFooter/LinksFooter";
 import ScrollToTopButton from "../ScrollToTopButton/ScrollToTopButton";
 const Footer = () => {
   return (
-    <footer className="w-full border-t bg-white border-sky-600  py-[4rem]">
+    <footer className="w-full border-t bg-neutral-50 border-sky-600  py-[4rem]">
       <div className="container">
         <div>
           <div className="mb-[2rem] flex justify-between items-center ">

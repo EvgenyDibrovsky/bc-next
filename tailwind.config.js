@@ -42,7 +42,8 @@ module.exports = {
       },
       backgroundImage: {
         "arrow-select": "url('/images/arrow-select.svg')",
-        hero: "url('/images/backround/bussines.jpg')",
+        hero: "url('/images/backround/bg-hero.jpg')",
+        auth: "url('/images/backround/bg-auth.jpg')",
         bgCheck: "url('/images/check.svg')",
       },
       fontSize: {
@@ -52,7 +53,7 @@ module.exports = {
         titleH2: ["20px", "normal"],
         titleH3: ["18px", "normal"],
         titleH4: ["16px", "normal"],
-        mainMenu: ["18px", "normal"],
+        mainMenu: ["16px", "normal"],
         langSwitcher: ["14px", "normal"],
         iconHeader: ["16px", "normal"],
         logoText: ["10px", "normal"],

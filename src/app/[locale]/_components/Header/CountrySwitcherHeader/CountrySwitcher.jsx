@@ -36,7 +36,10 @@ const CountrySwitcher = () => {
     <div className="relative flex items-center gap-1 text-[1rem]" ref={dropdownRef}>
       <IoGlobeOutline className="text-[1.2rem] text-sky-600 dark:text-white" />
       <div className="relative">
-        <button onClick={toggleDropdown} className="appearance-none pl-[0.5rem] pr-[2.3rem] w-full focus:outline-none cursor-pointer bg-transparent text-black dark:text-white">
+        <button
+          onClick={toggleDropdown}
+          className="text-mainMenu font-medium appearance-none pl-[0.5rem] pr-[2.3rem] w-full focus:outline-none cursor-pointer bg-transparent text-black dark:text-white"
+        >
           {selectedCountry}
         </button>
         {isOpen && (

@@ -1,19 +1,19 @@
 "use client";
 import { useState } from "react";
 
-export default function Register() {
+export default function LoginForm() {
   const [username, setUsername] = useState("");
-  const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Логика для обработки регистрации
-    console.log("Register", { username, email, password });
+    // Логика обработки отправки формы
+    console.log("Username:", username);
+    console.log("Password:", password);
   };
 
   return (
-    <div>
+    <div className="shadow-md p-[1rem]">
       <form onSubmit={handleSubmit} className="form">
         <div className="mb-5">
           <label htmlFor="username">Username</label>
@@ -23,18 +23,6 @@ export default function Register() {
             placeholder="Username"
             value={username}
             onChange={(e) => setUsername(e.target.value)}
-            required
-            className="w-full h-10 bg-white dark:bg-black border border-borderLabelForm dark:border-white px-2 rounded-md focus:outline-none mt-2"
-          />
-        </div>
-        <div className="mb-5">
-          <label htmlFor="email">Email</label>
-          <input
-            type="email"
-            id="email"
-            placeholder="Email"
-            value={email}
-            onChange={(e) => setEmail(e.target.value)}
             required
             className="w-full h-10 bg-white dark:bg-black border border-borderLabelForm dark:border-white px-2 rounded-md focus:outline-none mt-2"
           />
@@ -51,9 +39,11 @@ export default function Register() {
             className="w-full h-10 bg-white dark:bg-black border border-borderLabelForm dark:border-white px-2 rounded-md focus:outline-none mt-2"
           />
         </div>
-        <button type="submit" className="dark:text-white my-4 mx-auto block transition-all duration-200 hover:underline">
-          Register
-        </button>
+        <div className="flex justify-center">
+          <button type="submit" className="button-auth">
+            Войти
+          </button>
+        </div>
       </form>
     </div>
   );

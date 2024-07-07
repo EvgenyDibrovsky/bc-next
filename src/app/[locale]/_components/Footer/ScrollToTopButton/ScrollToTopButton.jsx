@@ -37,7 +37,7 @@ const ScrollToTopButton = () => {
       onClick={scrollToTop}
       style={{ transition: "duration-300 opacity 0.5s, visibility 0.5s" }}
     >
-      <IoIosArrowUp className="text-[2rem] text-amber-950" />
+      <IoIosArrowUp className="text-[2rem] text-sky-600" />
     </button>
   );
 };
